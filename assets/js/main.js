@@ -166,4 +166,4 @@
 
 const age = document.getElementById('age');
 
-age.innerText = new Date().getFullYear() - 1998;
+age.innerText = new Date().getFullYear() - 1997;
