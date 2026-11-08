@@ -1,0 +1,46 @@
+# robots.txt for elhossiny.com
+# Official website of Eng. Mohamed El-Hossiny (بشمهندس محمد الحسيني)
+
+User-agent: *
+Allow: /
+
+# Dedicated access for Search Engine & AI crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemap
+Sitemap: https://elhossiny.com/sitemap.xml
+
